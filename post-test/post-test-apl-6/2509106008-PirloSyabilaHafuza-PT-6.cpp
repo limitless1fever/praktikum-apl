@@ -412,8 +412,8 @@ void menuPencarian(ItemInventaris data[], int jumlah) { // Prosedur untuk menu s
         cout << "\n==================================================";
         cout << "\n   MENU PENCARIAN (SEARCHING)";
         cout << "\n==================================================";
-        cout << "\n1. Cari berdasarkan Nama Barang (Linear Search)";
-        cout << "\n2. Cari berdasarkan Harga (Binary Search)";
+        cout << "\n1. Cari berdasarkan Nama Barang";
+        cout << "\n2. Cari berdasarkan Harga";
         cout << "\n3. Kembali ke Menu Utama";
         cout << "\n\nPilihan: ";
         cin >> pilihan;
